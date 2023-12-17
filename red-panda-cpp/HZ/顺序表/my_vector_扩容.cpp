@@ -92,7 +92,7 @@ int main() {
 		int result;
 		
 		switch(op) {
-			case 0:  
+		case 0:  
 		case 1:
 		case 2:
 			pos = rand() % (v->count + 1);
